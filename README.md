@@ -13,3 +13,5 @@ frontend
 ОБЯЗАТЕЛЬНО ПЕРВИЧНО НАСТРОИТИТЬ Mongo DB 
 ЧТОБЫ ПОДГРУЖАЛИСЬ УСЛУГИ И КАЛЬКУЛЯТОР
 https://disk.yandex.ru/i/Sn8AlU84m3bi1w
+
+СКРИНШОТЫ САЙТА https://disk.yandex.ru/d/cpPDh8WhlGuEXA

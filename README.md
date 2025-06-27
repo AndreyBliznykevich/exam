@@ -9,3 +9,7 @@ frontend
 1) cd frontend
 2) npm i
 3) npm start 
+
+ОБЯЗАТЕЛЬНО ПЕРВИЧНО НАСТРОИТИТЬ Mongo DB 
+ЧТОБЫ ПОДГРУЖАЛИСЬ УСЛУГИ И КАЛЬКУЛЯТОР
+https://disk.yandex.ru/i/Sn8AlU84m3bi1w

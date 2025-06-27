@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f3f3f3;
+  color: #333;
+}
+
+.navbar {
+  background-color: #003366;
+  padding: 15px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0052cc, #007bff);
+  color: white;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.logo-placeholder {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 20px;
+  background-color: #ccc;
+  border-radius: 50%;
+  line-height: 150px;
+  font-size: 14px;
+}
+
+.slogan {
+  font-size: 28px;
+  margin-top: 10px;
+}
+
+.logo-img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  margin-bottom: 20px;
+}
+
+.about, .advantages {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.about h2, .advantages h2 {
+  font-size: 28px;
+  color: #003366;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 15px;
+}
+
+.advantages ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.advantages li {
+  margin-bottom: 10px;
+  font-size: 16px;
+  line-height: 1.4;
+}

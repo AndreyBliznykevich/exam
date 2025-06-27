@@ -1,0 +1,161 @@
+.blog-page {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+.blog-page h2 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #003366;
+}
+
+.blog-post {
+  background: #f9f9f9;
+  padding: 20px 25px;
+  margin-bottom: 30px;
+  border-left: 5px solid #007bff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.blog-post h3 {
+  color: #004080;
+  margin-bottom: 15px;
+}
+
+.blog-post ul {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+.blog-post li {
+  margin-bottom: 8px;
+}
+
+.comments-section, .subscribe-section {
+  background: #eef4fb;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.03);
+}
+
+.comments-section h3,
+.subscribe-section h3 {
+  margin-bottom: 15px;
+  color: #003366;
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  min-height: 80px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button {
+  background: #007bff;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.success-msg {
+  color: green;
+  margin-top: 10px;
+}
+
+.tips-section {
+  margin: 40px 0;
+  background: #f2f6fc;
+  padding: 25px 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
+
+.tips-section h3 {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 25px;
+  color: #003366;
+}
+
+.tip {
+  margin-bottom: 25px;
+}
+
+.tip h4 {
+  font-size: 18px;
+  color: #007bff;
+  margin-bottom: 8px;
+}
+
+.tip p {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.comments-section {
+  margin-top: 40px;
+  padding: 20px;
+  background: #f8f8f8;
+  border-radius: 8px;
+}
+
+.comment-form textarea {
+  width: 100%;
+  padding: 10px;
+  resize: vertical;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.comment-form button {
+  background: #0066cc;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.comment-list {
+  margin-top: 20px;
+}
+
+.comment-box {
+  background: #fff;
+  border-left: 4px solid #007bff;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.05);
+}
+
+.comment-box span {
+  display: block;
+  font-size: 12px;
+  color: #888;
+  margin-top: 5px;
+}

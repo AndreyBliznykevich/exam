@@ -1,0 +1,48 @@
+.about-page {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 0 20px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.about-page h2 {
+  font-size: 28px;
+  color: #003366;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.team-section p {
+  margin-bottom: 10px;
+}
+
+.philosophy {
+  margin-top: 20px;
+  font-style: italic;
+  color: #444;
+}
+
+.gallery-section .gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.gallery img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.reviews-section .review {
+  background-color: #f9f9f9;
+  border-left: 4px solid #007bff;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
